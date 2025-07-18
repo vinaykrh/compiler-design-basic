@@ -18,3 +18,8 @@ The `calculate()` function itself is a helper method that takes two integers and
 This program demonstrates several fundamental programming concepts, such as string parsing using `stringstream`, dynamic array manipulation with vectors, and implementing arithmetic logic with respect to operator precedence. While it doesn't handle parentheses or floating-point numbers, it effectively evaluates flat arithmetic expressions with correct order of operations. Its structured and readable format makes it a great educational example for beginners learning how to implement expression evaluation and basic parsing in C++. Enhancements like input validation, support for parentheses, decimal numbers, or error messages for malformed input would make the program more robust and user-friendly.
 
 output: 
+
+
+
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/2fda128d-ffb8-4f07-a847-3401eb8c0534" />
